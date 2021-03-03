@@ -1,1 +1,3 @@
 # LineComparisionComputation
+
+WELCOME TO LINE COMPARISION COMPUTATION PROGRAM.
